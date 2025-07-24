@@ -1,0 +1,7 @@
+[project]
+name = "chatbot"
+version = "0.1.0"
+dependencies = [
+    "fastapi>=0.116.1",
+    "pydantic-ai>=0.4.6",
+]
