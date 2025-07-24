@@ -1,0 +1,132 @@
+{"input": "I want a Samsung phone, can spend up to 15000", "output": "{\"category\": \"Mobiles\", \"subcategory\": \"Mobile Phones\", \"attributes\": {\"brand\": \"Samsung\", \"price\": 15000}}"}
+{"input": "Looking for jobs in IT, salary around 50000", "output": "{\"category\": \"Jobs\", \"subcategory\": \"IT\", \"attributes\": {\"salary\": 50000}}"}
+{"input": "Interested in electronics, especially laptops", "output": "{\"category\": \"Electronics & Appliances\", \"subcategory\": null, \"attributes\": {\"type\": \"laptops\"}}"}
+{"input": "I am interested in mobile phones and my budget is 10000 rs", "output": "{\"category\": \"Mobiles\", \"subcategory\": \"Mobile Phones\", \"attributes\": {\"price\": 10000}}"}
+{"input": "I want a bike, preferably Honda, under 60000", "output": "{\"category\": \"Bikes\", \"subcategory\": null, \"attributes\": {\"brand\": \"Honda\", \"price\": 60000}}"}
+{"input": "Can you help me find a job in marketing?", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Sales & Marketing\", \"attributes\": {}}"}
+{"input": "Looking for a used iPhone, budget 20000", "output": "{\"category\": \"Mobiles\", \"subcategory\": \"Mobile Phones\", \"attributes\": {\"brand\": \"iPhone\", \"price\": 20000}}"}
+{"input": "I need a tablet for work", "output": "{\"category\": \"Mobiles\", \"subcategory\": \"Tablets\", \"attributes\": {}}"}
+{"input": "Searching for a teaching job in Delhi", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Teacher\", \"attributes\": {\"location\": \"Delhi\"}}"}
+{"input": "Want to buy a Vivo phone, max price 12000", "output": "{\"category\": \"Mobiles\", \"subcategory\": \"Mobile Phones\", \"attributes\": {\"brand\": \"Vivo\", \"price\": 12000}}"}
+{"input": "Looking for a part-time job in customer service", "output": "{\"category\": \"Jobs\", \"subcategory\": \"BPO & Telecaller\", \"attributes\": {\"job_type\": \"parttime\"}}"}
+{"input": "I want a Lenovo laptop", "output": "{\"category\": \"Electronics & Appliances\", \"subcategory\": null, \"attributes\": {\"brand\": \"Lenovo\", \"type\": \"laptop\"}}"}
+{"input": "Interested in mobile accessories", "output": "{\"category\": \"Mobiles\", \"subcategory\": \"Accessories\", \"attributes\": {}}"}
+{"input": "Can you show me jobs for drivers?", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Driver\", \"attributes\": {}}"}
+{"input": "I want to buy a TV, budget 25000", "output": "{\"category\": \"Electronics & Appliances\", \"subcategory\": null, \"attributes\": {\"type\": \"TV\", \"price\": 25000}}"}
+{"input": "Looking for a contract job in IT", "output": "{\"category\": \"Jobs\", \"subcategory\": \"IT\", \"attributes\": {\"job_type\": \"contract\"}}"}
+{"input": "I want a job as a cook in Mumbai", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Cook\", \"attributes\": {\"location\": \"Mumbai\"}}"}
+{"input": "Need a phone, any brand, price below 8000", "output": "{\"category\": \"Mobiles\", \"subcategory\": \"Mobile Phones\", \"attributes\": {\"price\": 8000}}"}
+{"input": "Looking for a receptionist job, full-time", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Receptionist & Front office\", \"attributes\": {\"job_type\": \"fulltime\"}}"}
+{"input": "Want to buy a Realme phone", "output": "{\"category\": \"Mobiles\", \"subcategory\": \"Mobile Phones\", \"attributes\": {\"brand\": \"Realme\"}}"}
+{"input": "Interested in a delivery job, salary 15000", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Delivery & Collection\", \"attributes\": {\"salary_from\": 15000}}"}
+{"input": "Looking for a job as an office assistant", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Office Assistant\", \"attributes\": {}}"}
+{"input": "I want a Mi phone, budget 9000", "output": "{\"category\": \"Mobiles\", \"subcategory\": \"Mobile Phones\", \"attributes\": {\"brand\": \"Mi\", \"price\": 9000}}"}
+{"input": "Searching for a contract job in sales", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Sales & Marketing\", \"attributes\": {\"job_type\": \"contract\"}}"}
+{"input": "Looking for a Sony phone", "output": "{\"category\": \"Mobiles\", \"subcategory\": \"Mobile Phones\", \"attributes\": {\"brand\": \"Sony\"}}"}
+{"input": "I want a job as a teacher in Bangalore", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Teacher\", \"attributes\": {\"location\": \"Bangalore\"}}"}
+{"input": "Interested in a temporary job as a driver", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Driver\", \"attributes\": {\"job_type\": \"temporary\"}}"}
+{"input": "Looking for a phone, brand doesn't matter, price 5000", "output": "{\"category\": \"Mobiles\", \"subcategory\": \"Mobile Phones\", \"attributes\": {\"price\": 5000}}"}
+{"input": "I want a job in customer service, part-time", "output": "{\"category\": \"Jobs\", \"subcategory\": \"BPO & Telecaller\", \"attributes\": {\"job_type\": \"parttime\"}}"}
+{"input": "Looking for a Lava phone", "output": "{\"category\": \"Mobiles\", \"subcategory\": \"Mobile Phones\", \"attributes\": {\"brand\": \"Lava\"}}"}
+{"input": "Interested in a job as a cook, salary 20000", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Cook\", \"attributes\": {\"salary_from\": 20000}}"}
+{"input": "Want to buy a tablet, budget 15000", "output": "{\"category\": \"Mobiles\", \"subcategory\": \"Tablets\", \"attributes\": {\"price\": 15000}}"}
+{"input": "Looking for a job as a delivery boy", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Delivery & Collection\", \"attributes\": {}}"}
+{"input": "I want a job as an operator, full-time", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Operator & Technician\", \"attributes\": {\"job_type\": \"fulltime\"}}"}
+{"input": "Searching for a job as a receptionist, part-time", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Receptionist & Front office\", \"attributes\": {\"job_type\": \"parttime\"}}"}
+{"input": "Looking for a job as a teacher, salary 30000", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Teacher\", \"attributes\": {\"salary_from\": 30000}}"}
+{"input": "Interested in a job as a driver, salary 18000", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Driver\", \"attributes\": {\"salary_from\": 18000}}"}
+{"input": "Want to buy a Nokia phone", "output": "{\"category\": \"Mobiles\", \"subcategory\": \"Mobile Phones\", \"attributes\": {\"brand\": \"Nokia\"}}"}
+{"input": "Looking for a job as a cook in Delhi", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Cook\", \"attributes\": {\"location\": \"Delhi\"}}"}
+{"input": "I want a job as a sales executive", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Sales & Marketing\", \"attributes\": {}}"}
+{"input": "Interested in a job as a telecaller, part-time", "output": "{\"category\": \"Jobs\", \"subcategory\": \"BPO & Telecaller\", \"attributes\": {\"job_type\": \"parttime\"}}"}
+{"input": "Looking for a job as an office assistant, full-time", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Office Assistant\", \"attributes\": {\"job_type\": \"fulltime\"}}"}
+{"input": "Want to buy a Motorola phone, budget 11000", "output": "{\"category\": \"Mobiles\", \"subcategory\": \"Mobile Phones\", \"attributes\": {\"brand\": \"Motorola\", \"price\": 11000}}"}
+{"input": "Looking for a job as a delivery boy, salary 16000", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Delivery & Collection\", \"attributes\": {\"salary_from\": 16000}}"}
+{"input": "I want a job as a technician, contract", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Operator & Technician\", \"attributes\": {\"job_type\": \"contract\"}}"}
+{"input": "Searching for a job as a receptionist, full-time", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Receptionist & Front office\", \"attributes\": {\"job_type\": \"fulltime\"}}"}
+{"input": "Looking for a job as a teacher, part-time", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Teacher\", \"attributes\": {\"job_type\": \"parttime\"}}"}
+{"input": "Interested in a job as a driver, contract", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Driver\", \"attributes\": {\"job_type\": \"contract\"}}"}
+{"input": "Want to buy a Sony TV, budget 30000", "output": "{\"category\": \"Electronics & Appliances\", \"subcategory\": null, \"attributes\": {\"brand\": \"Sony\", \"type\": \"TV\", \"price\": 30000}}"}
+{"input": "Looking for a job as a cook, part-time", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Cook\", \"attributes\": {\"job_type\": \"parttime\"}}"}
+{"input": "I want a job as a sales executive, full-time", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Sales & Marketing\", \"attributes\": {\"job_type\": \"fulltime\"}}"}
+{"input": "Interested in a job as a telecaller, contract", "output": "{\"category\": \"Jobs\", \"subcategory\": \"BPO & Telecaller\", \"attributes\": {\"job_type\": \"contract\"}}"}
+{"input": "Looking for a job as an office assistant, part-time", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Office Assistant\", \"attributes\": {\"job_type\": \"parttime\"}}"}
+{"input": "Want to buy a LG phone, budget 14000", "output": "{\"category\": \"Mobiles\", \"subcategory\": \"Mobile Phones\", \"attributes\": {\"brand\": \"LG\", \"price\": 14000}}"}
+{"input": "Looking for a job as a delivery boy, contract", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Delivery & Collection\", \"attributes\": {\"job_type\": \"contract\"}}"}
+{"input": "I want a job as a technician, part-time", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Operator & Technician\", \"attributes\": {\"job_type\": \"parttime\"}}"}
+{"input": "Searching for a job as a receptionist, contract", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Receptionist & Front office\", \"attributes\": {\"job_type\": \"contract\"}}"}
+{"input": "Looking for a job as a teacher, contract", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Teacher\", \"attributes\": {\"job_type\": \"contract\"}}"}
+{"input": "Interested in a job as a driver, full-time", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Driver\", \"attributes\": {\"job_type\": \"fulltime\"}}"}
+{"input": "Want to buy a Panasonic TV, budget 20000", "output": "{\"category\": \"Electronics & Appliances\", \"subcategory\": null, \"attributes\": {\"brand\": \"Panasonic\", \"type\": \"TV\", \"price\": 20000}}"}
+{"input": "Looking for a job as a cook, contract", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Cook\", \"attributes\": {\"job_type\": \"contract\"}}"}
+{"input": "I want a job as a sales executive, contract", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Sales & Marketing\", \"attributes\": {\"job_type\": \"contract\"}}"}
+{"input": "Interested in a job as a telecaller, full-time", "output": "{\"category\": \"Jobs\", \"subcategory\": \"BPO & Telecaller\", \"attributes\": {\"job_type\": \"fulltime\"}}"}
+{"input": "Looking for a job as an office assistant, contract", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Office Assistant\", \"attributes\": {\"job_type\": \"contract\"}}"}
+{"input": "Want to buy a Asus phone, budget 13000", "output": "{\"category\": \"Mobiles\", \"subcategory\": \"Mobile Phones\", \"attributes\": {\"brand\": \"Asus\", \"price\": 13000}}"}
+{"input": "Looking for a job as a delivery boy, full-time", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Delivery & Collection\", \"attributes\": {\"job_type\": \"fulltime\"}}"}
+{"input": "I want a job as a technician, full-time", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Operator & Technician\", \"attributes\": {\"job_type\": \"fulltime\"}}"}
+{"input": "Searching for a job as a receptionist, part-time", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Receptionist & Front office\", \"attributes\": {\"job_type\": \"parttime\"}}"}
+{"input": "Looking for a job as a teacher, full-time", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Teacher\", \"attributes\": {\"job_type\": \"fulltime\"}}"}
+{"input": "Interested in a job as a driver, part-time", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Driver\", \"attributes\": {\"job_type\": \"parttime\"}}"}
+{"input": "Want to buy a Philips TV, budget 18000", "output": "{\"category\": \"Electronics & Appliances\", \"subcategory\": null, \"attributes\": {\"brand\": \"Philips\", \"type\": \"TV\", \"price\": 18000}}"} 
+{"input": "Looking for a job as a data analyst, salary above 60000", "output": "{\"category\": \"Jobs\", \"subcategory\": \"IT\", \"attributes\": {\"salary_from\": 60000}}"}
+{"input": "I want a OnePlus phone, can pay up to 25000", "output": "{\"category\": \"Mobiles\", \"subcategory\": \"Mobile Phones\", \"attributes\": {\"brand\": \"OnePlus\", \"price\": 25000}}"}
+{"input": "Interested in a teaching job, part-time, in Pune", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Teacher\", \"attributes\": {\"job_type\": \"parttime\", \"location\": \"Pune\"}}"}
+{"input": "Need a job as a delivery boy, temporary", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Delivery & Collection\", \"attributes\": {\"job_type\": \"temporary\"}}"}
+{"input": "Looking for a job in customer service, salary 22000", "output": "{\"category\": \"Jobs\", \"subcategory\": \"BPO & Telecaller\", \"attributes\": {\"salary_from\": 22000}}"}
+{"input": "Want to buy a Google Pixel, budget 35000", "output": "{\"category\": \"Mobiles\", \"subcategory\": \"Mobile Phones\", \"attributes\": {\"brand\": \"Google Pixel\", \"price\": 35000}}"}
+{"input": "Searching for a job as a cook, full-time, in Hyderabad", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Cook\", \"attributes\": {\"job_type\": \"fulltime\", \"location\": \"Hyderabad\"}}"}
+{"input": "I want a job as a sales manager, contract, in Chennai", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Sales & Marketing\", \"attributes\": {\"job_type\": \"contract\", \"location\": \"Chennai\"}}"}
+{"input": "Looking for a job as a telecaller, salary 18000, part-time", "output": "{\"category\": \"Jobs\", \"subcategory\": \"BPO & Telecaller\", \"attributes\": {\"salary_from\": 18000, \"job_type\": \"parttime\"}}"}
+{"input": "Interested in a job as a driver, full-time, in Kolkata", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Driver\", \"attributes\": {\"job_type\": \"fulltime\", \"location\": \"Kolkata\"}}"}
+{"input": "Want to buy a Xiaomi phone, max price 15000", "output": "{\"category\": \"Mobiles\", \"subcategory\": \"Mobile Phones\", \"attributes\": {\"brand\": \"Xiaomi\", \"price\": 15000}}"}
+{"input": "Looking for a job as an office assistant, temporary, in Noida", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Office Assistant\", \"attributes\": {\"job_type\": \"temporary\", \"location\": \"Noida\"}}"}
+{"input": "I want a job as a technician, salary 25000, contract", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Operator & Technician\", \"attributes\": {\"salary_from\": 25000, \"job_type\": \"contract\"}}"}
+{"input": "Searching for a job as a receptionist, full-time, in Jaipur", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Receptionist & Front office\", \"attributes\": {\"job_type\": \"fulltime\", \"location\": \"Jaipur\"}}"}
+{"input": "Looking for a job as a teacher, part-time, in Lucknow", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Teacher\", \"attributes\": {\"job_type\": \"parttime\", \"location\": \"Lucknow\"}}"}
+{"input": "Interested in a job as a driver, contract, in Surat", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Driver\", \"attributes\": {\"job_type\": \"contract\", \"location\": \"Surat\"}}"}
+{"input": "Want to buy a Oppo phone, budget 17000", "output": "{\"category\": \"Mobiles\", \"subcategory\": \"Mobile Phones\", \"attributes\": {\"brand\": \"Oppo\", \"price\": 17000}}"}
+{"input": "Looking for a job as a cook, part-time, in Ahmedabad", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Cook\", \"attributes\": {\"job_type\": \"parttime\", \"location\": \"Ahmedabad\"}}"}
+{"input": "I want a job as a sales executive, full-time, in Indore", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Sales & Marketing\", \"attributes\": {\"job_type\": \"fulltime\", \"location\": \"Indore\"}}"}
+{"input": "Interested in a job as a telecaller, contract, in Bhopal", "output": "{\"category\": \"Jobs\", \"subcategory\": \"BPO & Telecaller\", \"attributes\": {\"job_type\": \"contract\", \"location\": \"Bhopal\"}}"}
+{"input": "Looking for a job as an office assistant, part-time, in Patna", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Office Assistant\", \"attributes\": {\"job_type\": \"parttime\", \"location\": \"Patna\"}}"}
+{"input": "Want to buy a Vivo phone, budget 16000, color blue", "output": "{\"category\": \"Mobiles\", \"subcategory\": \"Mobile Phones\", \"attributes\": {\"brand\": \"Vivo\", \"price\": 16000, \"color\": \"blue\"}}"}
+{"input": "Looking for a job as a delivery boy, full-time, in Chandigarh", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Delivery & Collection\", \"attributes\": {\"job_type\": \"fulltime\", \"location\": \"Chandigarh\"}}"}
+{"input": "I want a job as a technician, full-time, in Nagpur", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Operator & Technician\", \"attributes\": {\"job_type\": \"fulltime\", \"location\": \"Nagpur\"}}"}
+{"input": "Searching for a job as a receptionist, part-time, in Kanpur", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Receptionist & Front office\", \"attributes\": {\"job_type\": \"parttime\", \"location\": \"Kanpur\"}}"}
+{"input": "Looking for a job as a teacher, full-time, in Thane", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Teacher\", \"attributes\": {\"job_type\": \"fulltime\", \"location\": \"Thane\"}}"}
+{"input": "Interested in a job as a driver, part-time, in Nashik", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Driver\", \"attributes\": {\"job_type\": \"parttime\", \"location\": \"Nashik\"}}"}
+{"input": "Want to buy a Samsung phone, budget 22000, color black", "output": "{\"category\": \"Mobiles\", \"subcategory\": \"Mobile Phones\", \"attributes\": {\"brand\": \"Samsung\", \"price\": 22000, \"color\": \"black\"}}"}
+{"input": "Looking for a job as a cook, contract, in Faridabad", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Cook\", \"attributes\": {\"job_type\": \"contract\", \"location\": \"Faridabad\"}}"}
+{"input": "I want a job as a sales executive, contract, in Meerut", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Sales & Marketing\", \"attributes\": {\"job_type\": \"contract\", \"location\": \"Meerut\"}}"}
+{"input": "Interested in a job as a telecaller, full-time, in Rajkot", "output": "{\"category\": \"Jobs\", \"subcategory\": \"BPO & Telecaller\", \"attributes\": {\"job_type\": \"fulltime\", \"location\": \"Rajkot\"}}"}
+{"input": "Looking for a job as an office assistant, contract, in Srinagar", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Office Assistant\", \"attributes\": {\"job_type\": \"contract\", \"location\": \"Srinagar\"}}"}
+{"input": "Want to buy a Realme phone, budget 18000, color red", "output": "{\"category\": \"Mobiles\", \"subcategory\": \"Mobile Phones\", \"attributes\": {\"brand\": \"Realme\", \"price\": 18000, \"color\": \"red\"}}"}
+{"input": "Looking for a job as a delivery boy, part-time, in Amritsar", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Delivery & Collection\", \"attributes\": {\"job_type\": \"parttime\", \"location\": \"Amritsar\"}}"}
+{"input": "I want a job as a technician, contract, in Allahabad", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Operator & Technician\", \"attributes\": {\"job_type\": \"contract\", \"location\": \"Allahabad\"}}"}
+{"input": "Searching for a job as a receptionist, full-time, in Varanasi", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Receptionist & Front office\", \"attributes\": {\"job_type\": \"fulltime\", \"location\": \"Varanasi\"}}"}
+{"input": "Looking for a job as a teacher, part-time, in Jodhpur", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Teacher\", \"attributes\": {\"job_type\": \"parttime\", \"location\": \"Jodhpur\"}}"}
+{"input": "Interested in a job as a driver, contract, in Ranchi", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Driver\", \"attributes\": {\"job_type\": \"contract\", \"location\": \"Ranchi\"}}"}
+{"input": "Want to buy a Oppo phone, budget 20000, color white", "output": "{\"category\": \"Mobiles\", \"subcategory\": \"Mobile Phones\", \"attributes\": {\"brand\": \"Oppo\", \"price\": 20000, \"color\": \"white\"}}"}
+{"input": "Looking for a job as a cook, part-time, in Gwalior", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Cook\", \"attributes\": {\"job_type\": \"parttime\", \"location\": \"Gwalior\"}}"}
+{"input": "I want a job as a sales executive, full-time, in Agra", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Sales & Marketing\", \"attributes\": {\"job_type\": \"fulltime\", \"location\": \"Agra\"}}"}
+{"input": "Interested in a job as a telecaller, contract, in Kota", "output": "{\"category\": \"Jobs\", \"subcategory\": \"BPO & Telecaller\", \"attributes\": {\"job_type\": \"contract\", \"location\": \"Kota\"}}"}
+{"input": "Looking for a job as an office assistant, part-time, in Bareilly", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Office Assistant\", \"attributes\": {\"job_type\": \"parttime\", \"location\": \"Bareilly\"}}"}
+{"input": "Want to buy a Vivo phone, budget 19000, color green", "output": "{\"category\": \"Mobiles\", \"subcategory\": \"Mobile Phones\", \"attributes\": {\"brand\": \"Vivo\", \"price\": 19000, \"color\": \"green\"}}"}
+{"input": "Looking for a job as a delivery boy, full-time, in Dhanbad", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Delivery & Collection\", \"attributes\": {\"job_type\": \"fulltime\", \"location\": \"Dhanbad\"}}"}
+{"input": "I want a job as a technician, full-time, in Asansol", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Operator & Technician\", \"attributes\": {\"job_type\": \"fulltime\", \"location\": \"Asansol\"}}"}
+{"input": "Searching for a job as a receptionist, part-time, in Durgapur", "output": "{\"category\": \"Jobs\", \"subcategory\": \"Receptionist & Front office\", \"attributes\": {\"job_type\": \"parttime\", \"location\": \"Durgapur\"}}"}
+{"input": "Looking for a job as a teacher, full-time, in Bhilai", "output": "{\"category\": "Jobs", "subcategory": "Teacher", "attributes": {"job_type": "fulltime", "location": "Bhilai"}}"}
+{"input": "Interested in a job as a driver, part-time, in Cuttack", "output": "{\"category\": "Jobs", "subcategory": "Driver", "attributes": {"job_type": "parttime", "location": "Cuttack"}}"}
+{"input": "Want to buy a Samsung phone, budget 21000, color yellow", "output": "{\"category\": "Mobiles", "subcategory": "Mobile Phones", "attributes": {"brand": "Samsung", "price": 21000, "color": "yellow"}}"}
+{"input": "Looking for a job as a cook, contract, in Siliguri", "output": "{\"category\": "Jobs", "subcategory": "Cook", "attributes": {"job_type": "contract", "location": "Siliguri"}}"}
+{"input": "I want a job as a sales executive, contract, in Gorakhpur", "output": "{\"category\": "Jobs", "subcategory": "Sales & Marketing", "attributes": {"job_type": "contract", "location": "Gorakhpur"}}"}
+{"input": "Interested in a job as a telecaller, full-time, in Bikaner", "output": "{\"category\": "Jobs", "subcategory": "BPO & Telecaller", "attributes": {"job_type": "fulltime", "location": "Bikaner"}}"}
+{"input": "Looking for a job as an office assistant, contract, in Warangal", "output": "{\"category\": "Jobs", "subcategory": "Office Assistant", "attributes": {"job_type": "contract", "location": "Warangal"}}"}
+{"input": "Want to buy a Realme phone, budget 17000, color orange", "output": "{\"category\": "Mobiles", "subcategory": "Mobile Phones", "attributes": {"brand": "Realme", "price": 17000, "color": "orange"}}"}
+{"input": "Looking for a job as a delivery boy, part-time, in Guntur", "output": "{\"category\": "Jobs", "subcategory": "Delivery & Collection", "attributes": {"job_type": "parttime", "location": "Guntur"}}"}
+{"input": "I want a job as a technician, contract, in Saharanpur", "output": "{\"category\": "Jobs", "subcategory": "Operator & Technician", "attributes": {"job_type": "contract", "location": "Saharanpur"}}"}
+{"input": "Searching for a job as a receptionist, full-time, in Gorakhpur", "output": "{\"category\": "Jobs", "subcategory": "Receptionist & Front office", "attributes": {"job_type": "fulltime", "location": "Gorakhpur"}}"}
+{"input": "Looking for a job as a teacher, part-time, in Bhiwandi", "output": "{\"category\": "Jobs", "subcategory": "Teacher", "attributes": {"job_type": "parttime", "location": "Bhiwandi"}}"}
+{"input": "Interested in a job as a driver, contract, in Firozabad", "output": "{\"category\": "Jobs", "subcategory": "Driver", "attributes": {"job_type": "contract", "location": "Firozabad"}}"}
+{"input": "Want to buy a Oppo phone, budget 21000, color pink", "output": "{\"category\": "Mobiles", "subcategory": "Mobile Phones", "attributes": {"brand": "Oppo", "price": 21000, "color": "pink"}}"} 
